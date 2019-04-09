@@ -1,5 +1,5 @@
 # Cancer Rates are not correlated with Wind Energy in the United States: A state-level analysis
-Here I provide the data and code to conduct a state-level correlation analysis between Wind Energy and Cancer Indicators in the United States using the latest data available.
+I provide the data and code to conduct a state-level correlation analysis between Wind Energy and Cancer Indicators in the United States using the latest data available.
 
 # Citation
 | Santos-Lozada, Alexis R. (2019). Cancer Rates are not correlated with Wind Energy in the U.S.: A State-level analysis. *GitHub*.
