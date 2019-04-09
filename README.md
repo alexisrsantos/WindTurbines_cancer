@@ -32,7 +32,7 @@ Here I provide a visualization of the correlation analysis. All the Wind Energy 
 ## Death Rates
 ![Death Rates](Rplot09.png)
 
-The code includes an section for an analysis that excludes Texas (an outlier). 
+The code includes a section for an analysis that excludes Texas (an outlier). 
 
 # Conclusion 
 There is no correlation between Wind Energy indicators and any of cancer indicators at the state-level. 
