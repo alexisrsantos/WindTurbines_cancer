@@ -46,3 +46,6 @@ Data for Wind Energy Indicators come from the [**American Wind Energy Associatio
 
 # Software
 All analyses and visualization can be run with [R](https://www.r-project.org/). R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
+
+# Metadata
+This repository is managed by [Dr. Alexis R. Santos](ars39@psu.edu). If you have any suggestions feel free to contact me.
