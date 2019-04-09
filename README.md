@@ -4,11 +4,11 @@ Here I provide the data and code to conduct a state-level correlation analysis b
 # Results
 Here I provide a visualization of the correlation analysis. 
 
-[Rplot09.png]
+!(Rplot09.png)
 
-[Rplot10.png]
+!(Rplot10.png)
 
-[Rplot11.png]
+!(Rplot11.png)
 
 The code includes an section for an analysis that excludes Texas (an outlier). 
 
