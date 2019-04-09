@@ -1,8 +1,28 @@
-# Cancer Rates are not associated with Wind Energy in the U.S.
+# Cancer Rates are not correlated with Wind Energy in the U.S.: A state-level analysis
+
 Here I provide the data and code to conduct a state-level correlation analysis between Wind Energy indicators and Cancer (Indicence, Prevalence, Mortality).
 
+# Citation
+| Santos-Lozada, Alexis R. (2019). Cancer Rates are not correlated with Wind Energy in the U.S.: A State-level analysis
+
+# Measurement
+## Wind Energy 
+I measure Wind Energy using 5 indicators:
+
+* Number of Projects,
+* Number of Turbines, 
+* Investiment Dollars,
+* MV Capacity, and
+* Homes Powered.
+
+## Cancer
+I measure cancer using three indicators:
+* Incidence Rates
+* Prevalence Rates
+* Death Rates
+
 # Results
-Here I provide a visualization of the correlation analysis. 
+Here I provide a visualization of the correlation analysis. All the Wind Energy Indicators are correlated among themselves. No correlation is found between any of the Wind Energy Indicators and the cancer indicators. 
 
 #Incidence 
 ![Incidence](Rplot11.png)
