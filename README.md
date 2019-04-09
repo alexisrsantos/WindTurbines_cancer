@@ -23,8 +23,8 @@ Numerous limitations need to be addressed this is a state-level analysis. Future
 
 ## Data Sources
 
-Data for Incidence, Prevalence, and Mortality come from the **State Cancer Profiles**[https://statecancerprofiles.cancer.gov/].
-Data for Wind Energy Indicators come from the **American Wind Energy Association**[https://www.awea.org/].
+Data for Incidence, Prevalence, and Mortality come from the [**State Cancer Profiles**](https://statecancerprofiles.cancer.gov/).
+Data for Wind Energy Indicators come from the [**American Wind Energy Association**](https://www.awea.org/).
 
 ## Software
 All analyses and visualization can be run with [R](https://www.r-project.org/). R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
